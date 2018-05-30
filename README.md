@@ -1,6 +1,5 @@
 # The Drone Swarm Project
 
-breakdown : https://blog.banggood.com/eachine-teardown-inside-the-cheapest-quad-ever-29789.html 
 Firmware and specs: https://github.com/silver13/h8mini-acro 
 -or- https://github.com/silver13/h8mini-dual
        -       https://www.rcgroups.com/forums/showthread.php?2512604-Eachine-H8-mini-acro-firmware 
