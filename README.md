@@ -3,7 +3,9 @@
 Firmware and specs: https://github.com/silver13/h8mini-acro 
 -or- https://github.com/silver13/h8mini-dual
        -       https://www.rcgroups.com/forums/showthread.php?2512604-Eachine-H8-mini-acro-firmware 
+
 Wiki: http://sirdomsen.diskstation.me/dokuwiki/doku.php?id=docs:readme 
+
 Pid: http://sirdomsen.diskstation.me/dokuwiki/doku.php?id=pid_silverxxx 
 
 Open micro?:http://sirdomsen.diskstation.me/dokuwiki/doku.php?id=openmicro 
